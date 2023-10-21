@@ -8,6 +8,6 @@ apt-get upgrade
 apt-get update
 pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
 echo ${YELLOW}'As dependências foram instaladas com sucesso!
-Iniciando a Akame-bot, aguarde...'
+Iniciando SPY-bot, aguarde...'
 clear
 sh start.sh
