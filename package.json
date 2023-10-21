@@ -1,7 +1,7 @@
 {
-  "name": "AKAME-BOT-MD",
+  "name": "SPY-BOT-MD",
   "version": "1.0.0",
-  "description": "AKAME-BOT-MD, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
+  "description": "SPY-BOT-MD, Multi-Conexões, funcionamento mais rápido, e hospedado no servidor do meu mestre 554884702848.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
@@ -15,7 +15,7 @@
     "não",
     "tem"
   ],
-  "author": "SCHEYOT",
+  "author": "SPY",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/"
