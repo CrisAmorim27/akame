@@ -11,7 +11,7 @@ const menu = (prefix, pushname, numerodn, bioo, adivinhaa, NomeDoBot,  wame) => 
 
 return `
 ╭══════════════ ⪩
-╰╮き⃟🩸𝐈𝐍𝐅𝐎 𝐃𝐎 𝐁𝐎𝐓🩸⃟ き
+╰╮き⃟ 🩸 𝐈𝐍𝐅𝐎 𝐁𝐎𝐓 🩸⃟  き
 ╭┤➥ Me: ${NomeDoBot}
 ┃│➥ Nome: ${pushname}
 ┃│➥ Biografia: ${bioo}
@@ -36,7 +36,6 @@ return `
 ╰╦═════════════ ⪨
 ╭┤き⃟🪀𝐏𝐑𝐈𝐍𝐂𝐈𝐏𝐀𝐈𝐒🪀⃟ き
 ┃│➥ ${prefix}convite [link do gp]
-┃│➥ ${prefix}alugar
 ┃│➥ ${prefix}duelo
 ┃│➥ ${prefix}avaliar
 ┃│➥ ${prefix}conselhobiblico 
