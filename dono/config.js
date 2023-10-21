@@ -4,7 +4,7 @@
 //NUNCA APAGUE OS " " 
 //CASO CONTRÁRIO, O BOT NÃO IRÁ LIGAR 
 //CASO TENHA INTERESSE EM TER O BOT DESCRIPTOGRAFADO 
-//CHAMA NO WHATSAPP: wa.me/5565993065507
+//CHAMA NO WHATSAPP: wa.me/554884702848
 //CASO TENHA IDEIAS DE COMANDOS, CHAMA AI
 
 //===================================== //
@@ -15,26 +15,26 @@ const chalk = require("chalk")
 //===================================== //
 // MUDANÇAS DE LOGOS:
 
-global.log0 = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg" 
+global.log0 = "https://telegra.ph/Spy-10-21-3" 
 
 global.thumb = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg"
 
-global.err4r = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg"
+global.err4r = "https://telegra.ph/err4r-10-21"
 
 //=====================================\\
 // ALTERAÇÕES DE DONO E BOT:
 
-global.numerodonoa = ["NUMERO-DONO"] //COLOQUE SEU NÚMERO DENTRO DAS ASPAS PARA DEFINIR
+global.numerodonoa = ["554884702848"] //COLOQUE SEU NÚMERO DENTRO DAS ASPAS PARA DEFINIR
 
-global.NomeDoBot = "𝐀𝐤𝐚𝐦𝐞 𝐛𝐨𝐭" //NICK DONO
+global.NomeDoBot = "Spy bot 554884702848" //NICK DONO
 
-global.linkgrupss = "https://chat.whatsapp.com/FykVpB0XocLFXPuaMsIrEr" // LINK DO SEU GRUPO DO WHATSAPP
+global.linkgrupss = "https://wa.me/55484702848" // LINK DO SEU GRUPO DO WHATSAPP
 
 global.prefix = "/" //ALTERAÇÃO DO PREFIXO DO BOT
 
-global.NickDono = "𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙" //NICK DONO
+global.NickDono = "𝕸.𝕾𝖍" //NICK DONO
 
-global.websitex = "https://youtube.com/@MarcioScheyot" //SEU CANAL DO YOUTUBE
+global.websitex = "https://youtube.com/@CrisAmorim27" //SEU CANAL DO YOUTUBE
 
 global.lolhuman = "RelzzAPIs" // NÃO ALTERE AQUI...
 
@@ -46,13 +46,13 @@ global.banChats = false // NÃO ALTERE AQUI...
 
 global.gcrevoke = [] // NÃO ALTERE AQUI...
 
-global.packname = "© Copyright by AKAME-MD" //MARCA D'ÁGUA 
+global.packname = "© Copyright by SPY-BOT" //MARCA D'ÁGUA 
 
-global.packname2 = `https://youtube.com/@MarcioScheyot` //SEU CANAL DO YOUTUBE 
+global.packname2 = `https://youtube.com/@CrisAmorim27` //SEU CANAL DO YOUTUBE 
 
-global.author = "𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙" //SEU NOME AQUI
+global.author = "𝕸.𝕾𝖍" //SEU NOME AQUI
 
-global.sessionName = "conexão akame" // NÃO ALTERE AQUI...
+global.sessionName = "Spy    connect" // NÃO ALTERE AQUI...
 
 //=====================================\\
 //EMOJIS DO BOT
